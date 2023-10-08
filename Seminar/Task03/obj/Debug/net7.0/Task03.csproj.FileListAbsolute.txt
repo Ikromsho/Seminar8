@@ -1,0 +1,14 @@
+D:\GB\Seminar\Seminar8\Seminar\Task03\bin\Debug\net7.0\Task03.exe
+D:\GB\Seminar\Seminar8\Seminar\Task03\bin\Debug\net7.0\Task03.deps.json
+D:\GB\Seminar\Seminar8\Seminar\Task03\bin\Debug\net7.0\Task03.runtimeconfig.json
+D:\GB\Seminar\Seminar8\Seminar\Task03\bin\Debug\net7.0\Task03.dll
+D:\GB\Seminar\Seminar8\Seminar\Task03\bin\Debug\net7.0\Task03.pdb
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.AssemblyInfoInputs.cache
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.AssemblyInfo.cs
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.csproj.CoreCompileInputs.cache
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.dll
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\refint\Task03.dll
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.pdb
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\Task03.genruntimeconfig.cache
+D:\GB\Seminar\Seminar8\Seminar\Task03\obj\Debug\net7.0\ref\Task03.dll
